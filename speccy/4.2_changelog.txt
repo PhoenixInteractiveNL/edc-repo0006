@@ -1,0 +1,6 @@
+New in This Version
+  * Added "Force 4:3 Screen" option to Speccy-Windows. 
+  * Added -4x3 command line option to Speccy-Unix. 
+  * Speccy-Windows will not overwrite last software file name with other names. 
+  * Fixed file associations on Windows 8+. 
+  * Fixed sound sampling rate setting across all platforms. 
