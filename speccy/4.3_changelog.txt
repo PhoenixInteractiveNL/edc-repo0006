@@ -1,0 +1,4 @@
+New in This Version
+  * Computing effective waveform power in MIDI playback and recording. 
+  * Fixed "Hit MIDI Drums" option in Speccy-Windows. 
+  * Added "Nearest Neighbor" option to disable linear interpolation. 
