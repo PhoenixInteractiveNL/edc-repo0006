@@ -1,0 +1,36 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2017-03-27 10:43:36 .....            4       263662  dev_hdd0\home\00000001\localusername
+2017-03-27 10:43:36 .....           33               make_fself.cmd
+2017-03-27 10:43:36 .....       138648               dev_hdd0\game\TEST12345\USRDIR\dump_stack.elf
+2017-03-27 10:43:36 .....       207256               dev_hdd0\game\TEST12345\USRDIR\gs_gcm_basic_triangle.elf
+2017-03-27 10:43:36 .....       356532               dev_hdd0\game\TEST12345\USRDIR\gs_gcm_cube.elf
+2017-03-27 10:43:36 .....       274528               dev_hdd0\game\TEST12345\USRDIR\gs_gcm_handle_system_cmd.elf
+2017-03-27 10:43:36 .....       343036               dev_hdd0\game\TEST12345\USRDIR\gs_gcm_hello_world.elf
+2017-03-27 10:43:36 .....       548524               dev_hdd0\game\TEST12345\USRDIR\gs_gcm_tetris.elf
+2017-03-27 10:43:36 .....       138776               dev_hdd0\game\TEST12345\USRDIR\pad_test.elf
+2017-03-27 10:43:36 .....       138684               dev_hdd0\game\TEST12345\USRDIR\ppu_thread.elf
+2017-03-27 10:43:36 .....        39636               dev_hdd0\game\TEST12345\USRDIR\pspgame.elf
+2017-03-27 10:43:36 .....       206304               dev_hdd0\game\TEST12345\USRDIR\rpcsp.elf
+2017-03-27 10:43:36 .....           71               dev_hdd1\.gitignore
+2017-03-27 10:43:36 .....           71               dev_usb000\.gitignore
+2017-03-27 10:43:36 .....          239               dev_hdd0\home\00000001\exdata\.gitignore
+2017-03-27 10:43:36 .....          239               dev_hdd0\home\00000001\savedata\.gitignore
+2017-03-27 10:43:36 .....          239               dev_hdd0\home\00000001\trophy\.gitignore
+2017-03-27 10:43:38 .....           71               shaderlog\.gitignore
+2017-03-27 10:43:36 .....     29900288      7758402  rpcs3.exe
+2017-03-27 10:43:36 .....       797305               OpenAL32.dll
+2017-05-03 10:40:06 D....            0            0  shaderlog
+2017-05-03 10:40:06 D....            0            0  dev_usb000
+2017-05-03 10:40:06 D....            0            0  dev_hdd1
+2017-05-03 10:40:06 D....            0            0  dev_hdd0\home\00000001\trophy
+2017-05-03 10:40:06 D....            0            0  dev_hdd0\home\00000001\savedata
+2017-05-03 10:40:06 D....            0            0  dev_hdd0\home\00000001\exdata
+2017-05-03 10:40:06 D....            0            0  dev_hdd0\home\00000001
+2017-05-03 10:39:02 D....            0            0  dev_hdd0\home
+2017-05-03 10:40:06 D....            0            0  dev_hdd0\game\TEST12345\USRDIR
+2017-05-03 10:39:02 D....            0            0  dev_hdd0\game\TEST12345
+2017-05-03 10:39:02 D....            0            0  dev_hdd0\game
+2017-05-03 10:39:02 D....            0            0  dev_hdd0
+------------------- ----- ------------ ------------  ------------------------
+2017-05-03 10:40:06           33090484      8022064  20 files, 12 folders
